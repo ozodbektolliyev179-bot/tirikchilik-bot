@@ -19,13 +19,13 @@ def start_command(update: Update, context: CallbackContext):
                 [
                     KeyboardButton(text="Tilni tanlash"),
                 ],
-                # [
-                #     KeyboardButton(text="Contact Yuborish", request_contact=True),
-                #     KeyboardButton(text="Lokatsiya Yuborish", request_location=True),
-                # ],
+                [
+                    KeyboardButton(text="Contact Yuborish", request_contact=True),
+                    KeyboardButton(text="Lokatsiya Yuborish", request_location=True),
+                ],
             ],
             resize_keyboard=True,
-            # one_time_keyboard=True,
+            one_time_keyboard=True,
         ),
     )
 
