@@ -16,5 +16,5 @@ Agar bu shartlar sizni qoniqtirsa, “🔥 Mahsulotlar” bo'limiga o'tish orqal
 
     hamkorlik_taxt = """Biz sizning kompaniyangiz bilan hamkorlik qilishdan mamnunmiz va sizning buyurtmangizga asosan futbolkalar, xudi, svitshot va boshqa ko'p narsalarni tayyorlashimiz mumkin.
 
-Menejer bilan bog'lanish uchun: @tirik_chilik"""
+Menejer bilan bog'lanish uchun: @Ntsn4bot"""
 contants = Constants()
